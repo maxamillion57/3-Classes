@@ -1,0 +1,15 @@
+C:\Users\meish\OneDrive\Documents\GitHub\helloworld\3Classes\bin\Debug\net8.0\3Classes.exe
+C:\Users\meish\OneDrive\Documents\GitHub\helloworld\3Classes\bin\Debug\net8.0\3Classes.deps.json
+C:\Users\meish\OneDrive\Documents\GitHub\helloworld\3Classes\bin\Debug\net8.0\3Classes.runtimeconfig.json
+C:\Users\meish\OneDrive\Documents\GitHub\helloworld\3Classes\bin\Debug\net8.0\3Classes.dll
+C:\Users\meish\OneDrive\Documents\GitHub\helloworld\3Classes\bin\Debug\net8.0\3Classes.pdb
+C:\Users\meish\OneDrive\Documents\GitHub\helloworld\3Classes\obj\Debug\net8.0\3Classes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\meish\OneDrive\Documents\GitHub\helloworld\3Classes\obj\Debug\net8.0\3Classes.AssemblyInfoInputs.cache
+C:\Users\meish\OneDrive\Documents\GitHub\helloworld\3Classes\obj\Debug\net8.0\3Classes.AssemblyInfo.cs
+C:\Users\meish\OneDrive\Documents\GitHub\helloworld\3Classes\obj\Debug\net8.0\3Classes.csproj.CoreCompileInputs.cache
+C:\Users\meish\OneDrive\Documents\GitHub\helloworld\3Classes\obj\Debug\net8.0\3Classes.sourcelink.json
+C:\Users\meish\OneDrive\Documents\GitHub\helloworld\3Classes\obj\Debug\net8.0\3Classes.dll
+C:\Users\meish\OneDrive\Documents\GitHub\helloworld\3Classes\obj\Debug\net8.0\refint\3Classes.dll
+C:\Users\meish\OneDrive\Documents\GitHub\helloworld\3Classes\obj\Debug\net8.0\3Classes.pdb
+C:\Users\meish\OneDrive\Documents\GitHub\helloworld\3Classes\obj\Debug\net8.0\3Classes.genruntimeconfig.cache
+C:\Users\meish\OneDrive\Documents\GitHub\helloworld\3Classes\obj\Debug\net8.0\ref\3Classes.dll
